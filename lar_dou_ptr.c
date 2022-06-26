@@ -1,3 +1,4 @@
+//lagest element in array using double pointers//
 #include<stdio.h>
 int lar(int **p1)
 {
